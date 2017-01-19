@@ -2,25 +2,16 @@
 layout: default
 ---
 
-# [](#About my HTML CSS Clone)Header 1
+# [](#About my HTML CSS Clone)About my HTML CSS Clone
 
 This is my first practice exercise of the given task.
 
 <dl>
 <dt>Name</dt>
-<dd>Godzilla</dd>
+<dd>Collins</dd>
 <dt>Born</dt>
-<dd>1952</dd>
+<dd>1900</dd>
 <dt>Birthplace</dt>
-<dd>Japan</dd>
-<dt>Color</dt>
-<dd>Green</dd>
+<dd>Kenya</dd>
 </dl>
 
-```
-Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
-```
-
-```
-The final element.
-```
